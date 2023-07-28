@@ -1,0 +1,5 @@
+id,color,cost,branchName,isTariff,Tariff_company_name
+1,black,150000,SAMSUNG,true,MobieUZ
+2,red,90000,HP,false,Uzmobile
+
+

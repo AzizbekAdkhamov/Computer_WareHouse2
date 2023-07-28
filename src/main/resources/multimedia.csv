@@ -1,0 +1,11 @@
+id,color,cost,branchName,CPU_name,memory
+1,black,300000,Acer,Core 15,20000
+2,White,450000,Lenovo,Core 7,14200
+3,white,210000,MacBookAir,Core 5,12100
+4,black,350000,Toshiba,Core 3,21000
+5,White,210000,Acer,Core 7,18000
+6,Green,270000,LG,Core 11,12000
+7,Green,410000,Lenovo,Core 10,14000
+8,Blue,400000,Toshiba,Core 3,20000
+9,white,260000,Acer,Core 7,16000
+

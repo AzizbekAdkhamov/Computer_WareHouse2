@@ -1,0 +1,16 @@
+id,color,cost,branchName,isTariff,Tariff_company_name
+1,black,150000,SAMSUNG,true,MobieUZ
+2,red,50000,Lenova,false,Beline
+2,blue,30000,Mac,true,Uzmobile
+2,red,80000,Toshiba,false,Usel
+2,red,120000,LG,false,Beline
+2,white,100000,Toshiba,true,Uzmobile
+2,red,40000,HP,false,Usel
+2,blue,100000,HP,true,Beline
+2,grenn,150000,MAC,false,Uzmobile
+2,red,120000,Lenova,true,MTC
+2,white,110000,HP,true,USEL
+
+
+
+

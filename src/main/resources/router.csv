@@ -1,0 +1,6 @@
+id,color,cost,branchName,wireless,speed
+1,white,500000,SAMSUNG,false,4000
+2,white,460000,Alibaba,true,3500
+3,black 450000,Apple,False,4000
+4,yellow,20000,Redmi,True,2500
+5,orange,50000,Apple,True,4500
